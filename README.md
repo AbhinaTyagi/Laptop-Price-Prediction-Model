@@ -1,9 +1,11 @@
 # Laptop-Price-Prediction-Model
 In this project i use 3 algorithms
 
-LinearRegression
-DecisionTreeRegressor
-KNeighborsRegressor I perfrom the steps given below for the project:
+1. LinearRegression
+2. DecisionTreeRegressor
+3. KNeighborsRegressor
+
+I perfrom the steps given below for the project:
 Step 1:Data Exploration (shape, info(),describe(),isnull().sum())
 
 Step 2: Data Visualization (seaborn)
